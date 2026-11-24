@@ -99,6 +99,7 @@ Free, high quality and browser-based. The LLM labs use a **live LLM**, so you ma
 | [HackAPrompt](https://www.hackaprompt.com) | Prompt hacking competitions and tracks. Earlier rounds produced well-known research datasets. |
 | [Prompt Airlines (Wiz)](https://promptairlines.com) | A short CTF: manipulate an airline customer-service bot into giving you a free ticket. |
 | [Hack The Box CTF](https://ctf.hackthebox.com) | Regularly hosts events with AI/ML categories. |
+| [AI security lab (manzambi.com)](https://www.manzambi.com/lab/) | Free, browser-based, no account. Both sides: prompt injection and agent hijacks, then investigating agent logs, writing detection rules and containing a hijacked agent. Team rooms included. |
 
 ### Self-hosted vulnerable apps
 
